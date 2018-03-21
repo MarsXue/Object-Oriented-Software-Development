@@ -1,2 +1,2 @@
 # ShadowBlocks
-SWEN20003 Object Oriented Software Development 2017
+Project for SWEN20003 Object Oriented Software Development in 2017
